@@ -7,6 +7,9 @@ build:
 	rm -rf public
 	npx quartz build
 
+sync:
+	npx quartz sync
+
 upload: # upload to server 
 	rsync -avz --delete public/ sspaeti@sspaeti.com:~/www/graceful
 
