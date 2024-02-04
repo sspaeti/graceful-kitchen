@@ -23,7 +23,7 @@ const config: QuartzConfig = {
         // Pink style
         darkMode: {
           light: "#010507", // Almost black, deep background
-          lightgray: "#00070a", // Very dark blue, for secondary backgrounds
+          lightgray: "#5D737E", // Very dark blue, for secondary backgrounds
           gray: "#7f7f7f", // Gray for text and less important elements
           darkgray: "#cccdcd", // Dark gray for lighter text and highlights
           dark: "#00A99D", // Very dark blue, almost black, for accents

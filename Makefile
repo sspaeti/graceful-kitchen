@@ -7,13 +7,10 @@ build:
 	rm -rf public
 	npx quartz build
 
-sync:
+sync: #syncs to https://github.com/sspaeti/graceful-kitchen
 	npx quartz sync
 
-upload: # upload to server 
-	rsync -avz --delete public/ sspaeti@sspaeti.com:~/www/graceful
-
-deploy: build upload
+deploy: sync
 
 
 help: ## Show all Makefile targets
