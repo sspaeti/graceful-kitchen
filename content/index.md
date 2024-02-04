@@ -10,6 +10,8 @@ Dive into our collection of recipes, each accompanied by step-by-step guides, ex
 
 Join us as we explore the art of cooking with love and living gracefully through each meal. Let's make every day a delicious adventure. Welcome to our kitchen—welcome to **Graceful Kitchen**.
 
+Check out existing [Recepies](tags/).
+
 > [!warning] Under construction
 > 
 > This site is just starting :)
