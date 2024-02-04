@@ -1,5 +1,6 @@
 ---
 title: Healthy French Baguette
 ---
+This is my first try of making a healthy Baquette :)
 
-![[baguette.jpeg]]![[WhatsApp Image 2024-02-04 at 09.17.08.jpeg]]
+![[baguette.jpeg]]![[baguette-close.jpeg]]
