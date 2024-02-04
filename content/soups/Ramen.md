@@ -12,30 +12,20 @@ tags:
 Ingredients
 
 -   8 higher-welfare chicken wings
-    
 -   1 handful of pork bones , (ask your butcher)
-    
 -   750 g higher-welfare pork belly , (skin removed and reserved)
-    
 -   2 thumb-sized pieces of ginger
-    
 -   5 cloves of garlic
-    
 -   1 heaped tablespoon miso paste
-    
 -   500 g dried soba or ramen noodles
-    
 -   8 small handfuls of beansprouts , (ready to eat)
-    
 -   8 spring onions
-    
--   1–2 fresh red chilles (depends… without is better)
-    
+-   1–2 fresh red chilles (depends… without is better)    
 
   
 
 1.  you need to clean the meet. therefore boil it until the brown and blood goes out:
-    
+
 
 1.  ![](https://lh5.googleusercontent.com/SWh6ZsIRqA3XbNAW_-EAYfbdzB6iQZJhHhwBW2PbVm4V5FAPw0yRp5QFlPpJREtccPlriNRQgDnnjOGoyDPY0z27_VAl8VcM48d-F8L2Nz0-R57QCcokZRkPb7YV14NgCHxZTuJa=s0)
     
