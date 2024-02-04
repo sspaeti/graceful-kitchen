@@ -25,9 +25,7 @@ Ingredients
   
 
 1.  you need to clean the meet. therefore boil it until the brown and blood goes out:
-
-
-1.  ![](https://lh5.googleusercontent.com/SWh6ZsIRqA3XbNAW_-EAYfbdzB6iQZJhHhwBW2PbVm4V5FAPw0yRp5QFlPpJREtccPlriNRQgDnnjOGoyDPY0z27_VAl8VcM48d-F8L2Nz0-R57QCcokZRkPb7YV14NgCHxZTuJa=s0)
+	1.  ![](https://lh5.googleusercontent.com/SWh6ZsIRqA3XbNAW_-EAYfbdzB6iQZJhHhwBW2PbVm4V5FAPw0yRp5QFlPpJREtccPlriNRQgDnnjOGoyDPY0z27_VAl8VcM48d-F8L2Nz0-R57QCcokZRkPb7YV14NgCHxZTuJa=s0)
     
 2.  ![](https://lh6.googleusercontent.com/Jgn6LNjCEQMg9u6uk95lsrI2IcdSWoczZ_B3MNN8Lqfaq42dQjR742KMYkEJj8YKQEXk5z4W7MlSvGI_f6YoPmGL9Z4pSAFYkS5dntzfskNH3UUQtQeJlevnIjAWuXWr0ktOj0CA=s0)
     
