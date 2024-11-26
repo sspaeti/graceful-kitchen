@@ -1,7 +1,7 @@
 ---
-title: Soy Sauce Eggs
+title: Easy and Most Moist One Bowl Cake
 tags:
-- desert
+  - dessert
 created: 2024-11-26
 ---
 2 Cups (265g) all purpose flour
