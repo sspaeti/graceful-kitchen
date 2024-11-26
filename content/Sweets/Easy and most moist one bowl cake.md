@@ -1,3 +1,9 @@
+---
+title: Soy Sauce Eggs
+tags:
+- desert
+created: 2024-11-26
+---
 2 Cups (265g) all purpose flour
 - 1 2/3 Cups (340g) white granulated sugar
 - 2/3 Cup (60g) unsweetened natural cocoa powder
